@@ -1,5 +1,5 @@
 baseurl = "https://danielsu.netlify.app/"
-title = "Cool Dog Guy"
+title = "Daniel Su"
 
 theme = "hugo-coder"
 
@@ -20,7 +20,7 @@ pygmentscodefencesguesssyntax = true
     author = "Daniel Su"
     description = "Daniel Su's Personal Website"
     keywords = "blog,developer,personal,hacker,student"
-    info = "Barista and Student"
+    info = "Student and Barista"
     avatarurl = "images/me.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = ""
