@@ -1,7 +1,7 @@
 +++
-date = "2020-04-01"
-title = "My First Post - Part 1"
-slug = "first-post"
+date = "12-12-2001"
+title = "How I will be Blogging"
+slug = "about blogging"
 tags = [
 ]
 categories = [
