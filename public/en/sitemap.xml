@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://danielsu.netlify.app/categories/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://danielsu.netlify.app/pt-br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielsu.netlify.app/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://danielsu.netlify.app/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielsu.netlify.app/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/categories/development/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/categories/hacking/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/series/my-first-post/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/posts/first-post/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/posts/first-post-2/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/posts/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://danielsu.netlify.app/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielsu.netlify.app/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/series/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://danielsu.netlify.app/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielsu.netlify.app/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/tags/development/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/posts/external-post-example/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/series/hugo/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/tags/hugo/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://danielsu.netlify.app/pt-br/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielsu.netlify.app/tags/hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/tags/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://danielsu.netlify.app/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielsu.netlify.app/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/tags/themes/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://danielsu.netlify.app/pt-br/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielsu.netlify.app/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://danielsu.netlify.app/pt-br/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://danielsu.netlify.app/contact/"
+                />
+  </url>
+  
+</urlset>

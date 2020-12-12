@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My First Post on Cool Dog Guy</title>
+    <link>https://danielsu.netlify.app/series/my-first-post/</link>
+    <description>Recent content in My First Post on Cool Dog Guy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://danielsu.netlify.app/series/my-first-post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post - Part 1</title>
+      <link>https://danielsu.netlify.app/posts/first-post/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielsu.netlify.app/posts/first-post/</guid>
+      <description>This is my first blog post I hope you enjoy!!!</description>
+    </item>
+    
+  </channel>
+</rss>

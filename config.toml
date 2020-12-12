@@ -17,15 +17,15 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Cool Dogs Guy"
-    description = "Cool Dog Guy's Personal Website"
+    author = "Daniel Su"
+    description = "Daniel Su's Personal Website"
     keywords = "blog,developer,personal,hacker,student"
-    info = "Dog Enthuasiast and student"
+    info = "Barista and Student"
     avatarurl = "images/me.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = ""
 
-    dateformat = "2 January, 2006"
+    dateformat = "12 December, 2020"
 
     hideCredits = false
     hideCopyright = false
@@ -67,17 +67,17 @@ pygmentscodefencesguesssyntax = true
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/CoolDogGuy/"
+    url = "https://github.com/DanGitSu"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/DANmolish"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin-in"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/daniel-su-47336b168/"
 
 [languages]
     [languages.en]
@@ -97,34 +97,5 @@ pygmentscodefencesguesssyntax = true
 
             [[languages.en.menu.main]]
             name = "Contact"
-            weight = 5
-            url = "contact/"
-
-
-    [languages.pt-br]
-        languagename = "Português"
-        title = "João Ninguém"
-
-        [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
-            description = "Sítio pessoal de João Ninguém"
-            keywords = "blog,desenvolvedor,pessoal"
-            footercontent = "Coloque algum texto aqui."
-
-        [languages.pt-br.menu]
-
-            [[languages.pt-br.menu.main]]
-            name = "Sobre"
-            weight = 1
-            url = "about/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Contato"
             weight = 5
             url = "contact/"

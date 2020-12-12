@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Cool Dog Guy</title>
+    <link>https://danielsu.netlify.app/series/hugo/</link>
+    <description>Recent content in Hugo on Cool Dog Guy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://danielsu.netlify.app/series/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to use medium</title>
+      <link>https://danielsu.netlify.app/posts/external-post-example/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielsu.netlify.app/posts/external-post-example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
