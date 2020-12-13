@@ -17,12 +17,12 @@ series = ["Why Blogging"]
  blogs I haven't fully decided but for now I hope to post about my dive into Cybersecurity and also
  about any other computing related projects I may decide to undertake.
 
- ## How often will I Blog?
+## How often will I Blog?
  On the minimum I hope to blog at least once a week. There may be circumstances where I do one big 
  blog post or a few connected blogs (_these will be made easy to follow by the links I will put in
  the blogs_)
 
- ## Who are these Blogs for?
+## Who are these Blogs for?
  These blogs are aimed at those who want to know a bit more about me, but also to help others who
  are on a similar journey through computing by writing down all my experiences in an easy to
  digest way, sort of like a public diary. The questions I hope I can answer for them are: 
