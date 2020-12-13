@@ -20,12 +20,12 @@ pygmentscodefencesguesssyntax = true
     author = "Daniel Su"
     description = "Daniel Su's Personal Website"
     keywords = "blog,developer,personal,hacker,student"
-    info = "Student and Barista"
+    info = "Aspiring Computer Scientist"
     avatarurl = "images/me.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = ""
 
-    dateformat = "12 December, 2020"
+     dateFormat = "2-1-2006"
 
     hideCredits = false
     hideCopyright = false

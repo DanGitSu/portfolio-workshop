@@ -3,24 +3,13 @@ title = "About Me"
 slug = "about"
 +++
 
-# Heading 1
+Hello! My name is Daniel Su.
 
-## Heading 2
+I am a student studying a Bachelors of Computer Science Honours at the University of Technology Sydney.
 
-### Heading 3
+I like Chess, Coffee and Computers.
 
-#### Heading 4
-
-##### Heading 5
-
-
-
-Hi! My name is John Doe.
-
-I am a student studying a Bachelors of Dog Training at the University of Technology Sydney.
-
-I like dogs, dogs, and dogs.
-
-My future dreams and aspirations are to own at least 20 Golden Retrievers.
+Currently I looking to explore with more depth into the world of Cybersecurity, I want to lay down
+the foundations I need so that when I find something I really enjoy, I can get really good at it.
 
 ![Golden Retrievers](../images/golden-retrievers.jpg)

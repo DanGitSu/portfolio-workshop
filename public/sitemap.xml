@@ -1,18 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://danielsu.netlify.app/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-04-01T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://danielsu.netlify.app/pt-br/sitemap.xml</loc>
-		
-	   	<lastmod>2018-12-31T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://danielsu.netlify.app/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/categories/development/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/posts/about-blogging/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/series/my-first-post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielsu.netlify.app/tags/</loc>
+  </url>
+  
+</urlset>
